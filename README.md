@@ -9,7 +9,7 @@
 <body>
   <table cellspacing="20">
     <tr>
-      <td><img src="image/kayden.jpeg" alt="Kayden Profile Picture"></td>
+      <td><img src="image/Kayden.jpeg" alt="Kayden Profile Picture"></td>
       <td><h1>Kayden Le</h1>
         <p><em><strong><a href="https://www.kaydenle.com/ ">Computer Science</a></strong> UI Designer</em></p>
         <p>I'm a web deverloper based on Tampa, Florida. I love creative code</p></td>
